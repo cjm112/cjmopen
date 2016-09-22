@@ -2,3 +2,5 @@ Test
 trunk change
 Second trunk change
 This change should be merged into trunk
+My Change
+My trunk change
